@@ -14,7 +14,11 @@ According to Neilson, E-commerce takes up almost 12% of all retail trades, but o
 # The Solution
 
 A mobile app that lets sustainable shoppers track the total carbon cost of their online shopping over time, and donate to a cause they are passionate about all through a compelling, sophisticated and highly affordable mobile app. Tracking and daily reinforcement has been demonstrated to develop new habits and lifestyles. Sustainable Shopper is a lifestyle utility app for sustainably minded consumers with two core features: 1) Carbon tracker and 2) Donation Mechanism. A program calculates CO2 emissions for a selected product, and this data is then displayed in a manner of seconds to the user. This simple, convenient process gives users a high-level view of their overall environmental impact, encouraging them to manage their consumption and meet their goals efficiently. The app is programmed to recommend a monetary amount that corresponds to the user’s carbon footprint based on a simple equivalency of $1 per kg of CO2. Users can thus directly contribute positively to high impact organizations, essentially offsetting their negative impact with a positive one. Launching Sustainable Shopper on platforms like the App Store will allow us to reach thousands of users, potentially scaling from individual users to a larger movement for responsible consumption. 
- 
+
+1. Read more about our market strategy <a href="https://ssingh27.github.io/Sustainable-Shopper/market">here</a>
+
+2. Read more about our financial projections <a href="https://ssingh27.github.io/Sustainable-Shopper/finances">here</a>
+
  ![homepage](homepage.png)
  
  ![page1](page1.png)
